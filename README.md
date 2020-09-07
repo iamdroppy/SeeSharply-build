@@ -1,2 +1,4 @@
 # SeeSharply-build
-temp repository to test on github pages. will use the main repo later.
+Demo/compiled build of SeeSharply.
+
+Demo URL: https://iamdroppy.github.io/SeeSharply-build/
